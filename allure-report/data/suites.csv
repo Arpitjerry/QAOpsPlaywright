@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","25628","@Web Place Order for ZARA COAT 3","chromium","Sun Apr 12 10:18:30 IST 2026","passed","Sun Apr 12 10:18:56 IST 2026","","ClientLoginPO.spec.js","",""
+"","16146","@Web Place Order for ADIDAS ORIGINAL","chromium","Sun Apr 12 10:18:54 IST 2026","passed","Sun Apr 12 10:19:10 IST 2026","","ClientLoginPO.spec.js","",""
+"","21338","@Web Calendar validations","chromium","Sun Apr 12 10:18:30 IST 2026","passed","Sun Apr 12 10:18:51 IST 2026","","CalendarValidation.spec.js","",""

@@ -1,0 +1,28 @@
+[{
+"username" : "AT01010@gmail.com",
+"password" : "At@12345678",
+"productName" :"ZARA COAT 3",
+"CardNumber" :"4444444444",
+"Month":"09",
+"Year":"30",
+"CVV":"009",
+"Name":"Arpit Jain",
+"CouponCode":"PlayWright"
+
+
+},
+
+{
+"username" : "AT01010@gmail.com",
+"password" : "At@12345678",
+"productName" :"ADIDAS ORIGINAL",
+"CardNumber" :"6666666666",
+"Month":"01",
+"Year":"30",
+"CVV":"008",
+"Name":"Aman Jain",
+"CouponCode":"PlayWright"
+
+}
+
+]
